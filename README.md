@@ -1,4 +1,4 @@
-### Namasthey 
+### నమస్తే नमस्ते நமஸ்தே Namasthey
 
 Here are some ideas to get you started:
 
