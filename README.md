@@ -1,6 +1,5 @@
 ### నమస్తే  नमस्ते  நமஸ்தே  Namasthey
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning ML,DL...and their fam
