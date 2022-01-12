@@ -1,7 +1,7 @@
 ### నమస్తే  नमस्ते  நமஸ்தே  Namasthey
 
 
-- 🔭 I’m currently working on Data Science Projects
+- 🔭 I’m currently working on <a href="https://github.com/BHariKrishnaReddy/DataScience-Challeges">Data Science Projects</a> and _kaggling_ (Novice🥳)
 - 🌱 I’m currently learning ML,DL...and their fam
 - 👯 I’m looking to collaborate on projects releated DataScience
 - 💬 Ask me about intresting topics releated to DataScience and Statastics
