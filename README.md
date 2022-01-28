@@ -1,4 +1,4 @@
-### నమస్తే  नमस्ते  நமஸ்தே  Namasthe
+### నమస్తే  नमस्ते  வணக்கம்ே  WelCome
 
 - <b>🔭</b> I’m currently working on <a href="https://github.com/BHariKrishnaReddy/DataScience-Challeges">Data Science Projects</a> and _kaggling_ (Novice🥳)
 - <b>📚</b> I’m currently learning ML,DL...and their fam
