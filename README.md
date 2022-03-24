@@ -1,4 +1,4 @@
-<h1>I'm Harikrishna<h/1>
+<h1 align = 'center'>Harikrishna Reddy <h/1>
 
 ### నమస్తే  नमस्ते  வணக்கம்ே  WelCome
 
