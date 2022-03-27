@@ -11,3 +11,7 @@
 - <b>💬</b> Fun fact: Get in touch with me on will share more funFacts !
 
   ![](https://komarev.com/ghpvc/?username=BHariKrishnaReddy&color=green)
+  
+  <!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
