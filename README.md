@@ -9,3 +9,5 @@
 - <b>📨</b> How to reach me <a href="https://www.linkedin.com/in/bharikrishnareddy12aug1999">Linkedin</a>
 - <b>✍🏼</b> I have started writing stories,Intersted to read to them ,then <a href="https://medium.com/@harikrishnareddy19995">GoOn</a> !
 - <b>💬</b> Fun fact: Get in touch with me on will share more funFacts !
+
+  ![](https://komarev.com/ghpvc/?username=BHariKrishnaReddy&color=green)
