@@ -3,7 +3,7 @@
   ![](https://komarev.com/ghpvc/?username=BHariKrishnaReddy&color=green)
 
 ## Summary
-I am a current graduate student pursuing a master's in Data Science, specializing in modeling and actively seeking opportunities for summer internships in 2023.
+I am a current graduate student pursuing a master's in Data Science, specializing in modeling and actively seeking opportunities for summer internships in 2024.
 
 ## Objective
 Results-driven and motivated professional scaling new heights with hard work and dedication, leaving a mark of excellence. I have 2.5+ years of experience in development and automation.
