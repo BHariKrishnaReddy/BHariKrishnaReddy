@@ -9,13 +9,7 @@ I am a current graduate student pursuing a master's in Data Science, specializin
 Results-driven and motivated professional scaling new heights with hard work and dedication, leaving a mark of excellence. I have 2.5+ years of experience in development and automation.
 
 ## Education
-- **Western Michigan University** – Kalamazoo, MI
-  MS in Data Science (Electrical and Computer Engineering)
-  August 2023
-- **Anna University** – Tamil Nadu, India
-  B.E, Electronics and Communication Engineering
-  GPA: 7.22/10
-  July 2016 – October 2020
+- **Western Michigan University** – Kalamazoo, MI  MS in Data Science (B.E, Electrical and Computer Engineering  Anna University – Tamil Nadu, India GPA: 7.22/10 July 2016 – October 2020)
   - Relevant Coursework:
     - Advanced Storage
     - Retrieval and Processing of Big Data
