@@ -3,26 +3,7 @@
   ![](https://komarev.com/ghpvc/?username=BHariKrishnaReddy&color=green)
 
 ## Summary
-I am a current graduate student pursuing a master's in Data Science, specializing in modeling and actively seeking opportunities for summer internships in 2024.
-
-## Objective
-Results-driven and motivated professional scaling new heights with hard work and dedication, leaving a mark of excellence. I have 2.5+ years of experience in development and automation.
-
-## Education
-- **Western Michigan University** – Kalamazoo, MI  MS in Data Science (B.E, Electrical and Computer Engineering  Anna University – Tamil Nadu, India GPA: 7.22/10 July 2016 – October 2020)
-  - Relevant Coursework:
-    - Advanced Storage
-    - Retrieval and Processing of Big Data
-    - Big Data Analysis Using Python
-    - Applied Linear Models
-
-## Technical Skills
-- **Languages:** Python, Java, C, SQL
-- **Database Technologies:** MongoDB, PostgreSQL
-- **Frameworks/Packages:** Microservices, Django, Flask, scikit-learn, Deep Learning, pandas, visualization, and NLP libraries
-- **Monitoring Tools:** Echo, Kibana, Dynatrace, AirWatch
-- **Tools:** Tableau, MS Excel, Postman APIs, Swagger API, WinSCP, Infra, ServiceNow, Putty server, Confluence
-- **Others:** Azure, GitHub, Jira, Docker, Automation with Python
+With over 2.5 years of hands-on experience as a System Engineer at TCS, I successfully improved Retail Order Management Systems for famous clients such as Kroger Co. and Albertsons Companies, resulting in significant annual revenue retention and cost savings. I have a strong track record of providing substantial solutions while demonstrating competence in designing large-scale services across several technologies. I am interested in infusing technical brilliance, cutting-edge problem-solving, and an unrelenting dedication to data-driven decision-making into a dynamic organization focusing on Data Science roles.
 
 ## Work Experience
 - **System Engineer** at Tata Consultancy Services, Mumbai, India
@@ -38,16 +19,26 @@ Results-driven and motivated professional scaling new heights with hard work and
 - **Data Analyst Intern** at Technocolabs, Indore, Madhya Pradesh, India
   - Developed services to extract data, build models, and integrate dynamic dashboards to solve business challenges with innovative technologies.
 
+## Technical Skills
+- **Languages:** Python, Java, C, SQL
+- **Database Technologies:** MongoDB, PostgreSQL
+- **Frameworks/Packages:** Microservices, Django, Flask, scikit-learn, Deep Learning, pandas, visualization, and NLP libraries
+- **Monitoring Tools:** Echo, Kibana, Dynatrace, AirWatch
+- **Tools:** Tableau, MS Excel, Postman APIs, Swagger API, WinSCP, Infra, ServiceNow, Putty server, Confluence
+- **Others:** Azure, GitHub, Jira, Docker, Automation with Python
+
+## Education 
+
+- Western Michigan University – Kalamazoo, MI | MS in Data Science | GPA: 3.67/4 | Aug’23 – Apr’25)
+  - Coursework Adv Storage, Ret, Pro of Big Data, Big Data Analysis Using Python, Applied Linear Models Machine Learning and R (Adv and analysis).
+
+- Anna University, Tamil Nadu, India | B.E, Electronics and Communication Engineering | GPA: 7.22/10 | Ju’16 – Oct’20) 
+
 ## Research Journal Publications and Certifications
 - Published a paper in the European Journal (ISSN 2515-8260) demonstrating competence in IoT urban surveillance using MobileNet, Deep Learning (OpenCV), and Raspberry Pi.
 - Create Machine Learning Models in Microsoft Azure
 - Neural Networks and Deep Learning
 - GitHub Essentials
-
-## Extra-curricular Activities
-- Contributions to the Telecom Centre of Excellence as an active participant in workshops, seminars, and paper presentations.
-- College representative in several intramural competitions, including soccer, the Smart India Hackathon, and chess.
-- For two years, I was a class mentor and student organizer and coordinated the successful HONE-KEN technical fest.
 
 ## Personal Projects
 1. **Article Recommendation using SBERT**
@@ -63,11 +54,11 @@ Results-driven and motivated professional scaling new heights with hard work and
    - Conducted data preprocessing, data decision analysis, and sophisticated feature engineering in Python
    - Yielded precise and scalable results utilizing Random Forest regression.
   
-## Achievements
-- Best Team (2 times)
-- Best Performer
-- Milestones
-- On-Spot (3 times)
+## Achievements 
+- Best Team (*2), Best Performer, Milestones and On-Spot (*3).
+- Contributions to the Telecom Centre of Excellence were made as an active participant in workshops, seminars, and paper presentations.
+- College representative in several intramural competitions, including soccer, the Smart India Hackathon, and chess.
+- For two years, I was a class mentor and student organizer, and I coordinated the successful HONE-KEN technical fest. 
 
 <p align="center"> * * * </p><br><br>
 
@@ -76,7 +67,7 @@ Results-driven and motivated professional scaling new heights with hard work and
 - <b>🙋🏽‍♂️</b> I’m looking for opportunities in the data science field related!
 - <b>📨</b> Reach me <a href="https://www.linkedin.com/in/bharikrishnareddy">Linkedin</a>
 - <b>✍🏼</b> I wrote few ! not many articles based on my understanding <a href="https://medium.com/@harikrishnareddy19995">CheckHere</a> ! <br>
- <sub>working on two other certification related to Deep Learning and AzureML </sub>
+ <sub>working on two other certifications related to Deep Learning and AzureML </sub>
 
 
 <p aligen="center"><strong>Be curious, not judgemental</strong></p>
