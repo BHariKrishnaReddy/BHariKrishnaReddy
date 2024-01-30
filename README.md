@@ -29,10 +29,9 @@ With over 2.5 years of hands-on experience as a System Engineer at TCS, I succes
 
 ## Education 
 
-- Western Michigan University – Kalamazoo, MI | MS in Data Science | GPA: 3.67/4 | Aug’23 – Apr’25)
-  - Coursework Adv Storage, Ret, Pro of Big Data, Big Data Analysis Using Python, Applied Linear Models Machine Learning and R (Adv and analysis).
-
-- Anna University, Tamil Nadu, India | B.E, Electronics and Communication Engineering | GPA: 7.22/10 | Ju’16 – Oct’20) 
+  - Western Michigan University – Kalamazoo, MI | MS in Data Science | GPA: 3.67/4 | Aug’23 – Apr’25)
+    - Coursework Adv Storage, Ret, Pro of Big Data, Big Data Analysis Using Python, Applied Linear Models Machine Learning and R (Adv and analysis).
+  - Anna University, Tamil Nadu, India | B.E, Electronics and Communication Engineering | GPA: 7.22/10 | Ju’16 – Oct’20) 
 
 ## Research Journal Publications and Certifications
 - Published a paper in the European Journal (ISSN 2515-8260) demonstrating competence in IoT urban surveillance using MobileNet, Deep Learning (OpenCV), and Raspberry Pi.
